@@ -1,6 +1,8 @@
 <?php
 
+
 $num = 0;
+
 
 for ($i = 1; $i<5 ;$i++) {
     ($numx [$i]= readline("digite o $i º número positivo inteiro: "));	
